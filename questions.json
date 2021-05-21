@@ -6,7 +6,8 @@
         "correct": "150 millions km",
         "choice1": "40 millions km",
         "choice2": "700 millions km",
-        "choice3": "2 millions km"
+        "choice3": "2 millions km",
+        "infosupp" : "Le Soleil se trouve à une distance moyenne d'environ 150 km de la Terre. La Terre n'orbite pas autour du Soleil en un cercle parfait mais son orbite est elliptique ."
       },  
       {
         "planete": "Soleil",
@@ -14,14 +15,17 @@
         "correct": "8 min. 20 sec.",
         "choice1": "immédiatement",
         "choice2": "16 min. 40 sec.",
-        "choice3": "8 heures 20 min."
-      },        {
+        "choice3": "8 heures 20 min.",
+        "infosupp" : "Voici le calcul . Nous gravitons autour du soleil à une distance d'environ 150 millions de km. La lumière se déplace à 300 000 km/s. Divisez-les et vous obtenez 500 secondes ou 8 minutes et 20 secondes ."
+      },      
+      {
         "planete": "Soleil",
         "question" : "Le Soleil apparait jaune de la Terre , mais quelle est sa couleur réelle ?",
         "correct": "Blanche",
         "choice1": "Jaune",
         "choice2": "Rouge",
-        "choice3": "Noir"
+        "choice3": "Noir",
+        "infosupp" : "Le Soleil n'est pas réellement jaune, c'est juste une illusion causée par l'atmosphère terrestre. Les processus puissants qui se produisent à l'intérieur du Soleil sont si robustes qu'il émet toutes les couleurs de lumière imaginables, ensemble, ces couleurs forment une lumière blanche pure ."
       },           
       {
         "planete": "Soleil",
@@ -29,28 +33,35 @@
         "correct": "4700 °C",
         "choice1": "10000 °C",
         "choice2": "477 °C",
-        "choice3": "-155 °C"
-      },        {
+        "choice3": "-155 °C",
+        "infosupp" : "La température à la surface du soleil varie entre 8500 degrés Celsius au plus profond de la photosphère et atteint 4200 degrés Celsius à la surface de la photosphère. La température du centre du soleil est environ de 15 000 000 degrés Celsius ."
+      },       
+      {
         "planete": "Soleil",
         "question" : "Depuis combien de temps le soleil existe-t-il ?",
         "correct": "4.5 milliard d'années",
         "choice1": "10.5 milliards d'années",
         "choice2": "12.5 milliards d'années",
-        "choice3": "7.5 millions d'années"
-      },        {
+        "choice3": "7.5 millions d'années",
+        "infosupp" : "Le soleil brille depuis environ 4,5 milliards d'années les étoiles comme notre soleil brûlent pendant environ 10 milliards d'années . Notre soleil est donc à la moitié de sa vie, mais ne vous inquiétez pas, il lui reste encore 5 milliards d'années à vivre ."
+      },       
+      {
         "planete": "Soleil",
         "question" : "Qu'est-ce que le soleil utilise comme carburant ? ",
         "correct": "Hydrogen",
         "choice1": "Helium",
         "choice2": "TNT",
-        "choice3": "Bois"
-      },        {
+        "choice3": "Bois",
+        "infosupp" : "La source du combustible solaire est l'hydrogène. Par une réaction chimique spéciale, appelée fusion nucléaire, l'hydrogène est 'brûlé' en libérant une énorme quantité d'énergie sous forme de lumière et de chaleur ."
+      },        
+      {
         "planete": "Soleil",
         "question" : "Le soleil est :",
         "correct": "Une étoile",
         "choice1": "Une planéte",
         "choice2": "Un astéroïde",
-        "choice3": "Un trou noir"
+        "choice3": "Un trou noir",
+        "infosupp" : "Le soleil est une étoile. c'est une énorme sphère de gaz chauds qui tourne sur elle-même. Le soleil est le centre de notre système solaire et contient la plupart de la masse de ce dernier. toutes les planètes orbitent autour du soleil ."
       }
     ]
   }
