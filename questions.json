@@ -1,0 +1,56 @@
+{
+    "questions": [
+      {
+        "planete": "Soleil",
+        "question" : "Quelle est la distance entre le Soleil et la Terre ?",
+        "correct": "150 millions km",
+        "choice1": "40 millions km",
+        "choice2": "700 millions km",
+        "choice3": "2 millions km"
+      },  
+      {
+        "planete": "Soleil",
+        "question" : "Combien de temps prend la lumière du Soleil pour arriver sur Terre ?",
+        "correct": "8 min. 20 sec.",
+        "choice1": "immédiatement",
+        "choice2": "16 min. 40 sec.",
+        "choice3": "8 heures 20 min."
+      },        {
+        "planete": "Soleil",
+        "question" : "Le Soleil apparait jaune de la Terre , mais quelle est sa couleur réelle ?",
+        "correct": "Blanche",
+        "choice1": "Jaune",
+        "choice2": "Rouge",
+        "choice3": "Noir"
+      },           
+      {
+        "planete": "Soleil",
+        "question" : "Quelle est la température moyenne a la surface du Soleil ?",
+        "correct": "4700 °C",
+        "choice1": "10000 °C",
+        "choice2": "477 °C",
+        "choice3": "-155 °C"
+      },        {
+        "planete": "Soleil",
+        "question" : "Depuis combien de temps le soleil existe-t-il ?",
+        "correct": "4.5 milliard d'années",
+        "choice1": "10.5 milliards d'années",
+        "choice2": "12.5 milliards d'années",
+        "choice3": "7.5 millions d'années"
+      },        {
+        "planete": "Soleil",
+        "question" : "Qu'est-ce que le soleil utilise comme carburant ? ",
+        "correct": "Hydrogen",
+        "choice1": "Helium",
+        "choice2": "TNT",
+        "choice3": "Bois"
+      },        {
+        "planete": "Soleil",
+        "question" : "Le soleil est :",
+        "correct": "Une étoile",
+        "choice1": "Une planéte",
+        "choice2": "Un astéroïde",
+        "choice3": "Un trou noir"
+      }
+    ]
+  }
