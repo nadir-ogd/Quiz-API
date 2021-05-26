@@ -1,5 +1,4 @@
-{
-    "questions": [
+ [
       {
         "planete": "Soleil",
         "question" : "Quelle est la distance entre le Soleil et la Terre ?",
@@ -623,7 +622,7 @@
         "choice3": "1917",
         "infosupp" : "Apres l'observation ed saturn en 1610 , en 1612, l'astronome observe Saturne, mais les anneaux ont disparu, puis ils réapparaissent l'année suivante. En réalité, la Terre était passée dans le plan des anneaux, et comme ils sont très fins, apres l'observation de saturn en 1610 , ils étaient alors invisibles depuis la Terre. Ce phénomène se produit régulièrement."
       },
-{
+      {
         "planete": "Saturn",
         "question" : "Le nom du plus grand satellite  naturel de Saturn est .... ",
         "correct": "Titan",
@@ -708,8 +707,8 @@
         "planete": "Uranus",
         "question" : "9.Uranus est bleu a cause de la presénce de l'eau sur cette planéte",
         "correct": "faux",
-        "choice1": "",
-        "choice2": "",
+        "choice1": null,
+        "choice2": null,
         "choice3": "Vrai",
         "infosupp" : "la couleur bleue d'Uranus est due à la présence de méthane qui réfléchit le bleu"
       }  ,     
@@ -721,6 +720,7 @@
         "choice2": "1867",
         "choice3": "2000",
         "infosupp" : "Uranus n'a été découvert que le 13 mars 1781 par le musicien et astronome William Herschel"
-      },
-    ]
+      }
+    
+    
   }
