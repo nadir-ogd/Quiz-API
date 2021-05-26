@@ -92,9 +92,9 @@
     {
         "planete": "Mercure",
         "question": "Quelle est la plage de température sur mercure?de -180°C a 430°C",
-        "correct": "de -180°C a 430°Cde -150 °C  à 400 °C",
-        "choice1": "de -150 °C  à 400 °Cde 30 °C à 70 °C",
-        "choice2": "de 30 °C à 70 °Cde -350 °C à -100 °C",
+        "correct": "de -180°C a 430°C",
+        "choice1": "de -150 °C  à 400 °C",
+        "choice2": "de 30 °C à 70 °C",
         "choice3": "de -350 °C à -100 °C",
         "infosupp": "Pendant la journée, la température à la surface de Mercure peut atteindre 430 °C. Comme la planète n'a pas d'atmosphère pour retenir cette chaleur, la température à la surface peut descendre jusqu'à -180 °C pendant la nuit."
     },
