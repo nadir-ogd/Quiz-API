@@ -343,7 +343,7 @@
     },
     {
         "planete": "Terre",
-        "question": "comment appelle-t-on la couche rocheuse extérieure de la Terre ?",
+        "question": "Comment appelle-t-on la couche rocheuse extérieure de la Terre ?",
         "correct": "La croûte",
         "choice1": "Le manteau",
         "choice2": "La noyau externe",
