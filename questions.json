@@ -343,12 +343,12 @@
     },
     {
         "planete": "Terre",
-        "question": "Comment la Terre est-elle surnommée ?",
-        "correct": "La planète bleu",
-        "choice1": "La planète verte",
-        "choice2": "La planete orange",
-        "choice3": "La planete rouge",
-        "infosupp": "La terre a été surnommée planète bleue à cause de l’abondance de l’eau."
+        "question": "comment appelle-t-on la couche rocheuse extérieure de la Terre ?",
+        "correct": "La croûte",
+        "choice1": "Le manteau",
+        "choice2": "La noyau externe",
+        "choice3": "Asthénosphère",
+        "infosupp": "La croûte terrestre, appelée aussi écorce terrestre, est la partie superficielle et solide du matériau dont est faite la Terre."
     },
     {
         "planete": "Terre",
