@@ -718,5 +718,95 @@
         "choice2": "1867",
         "choice3": "2000",
         "infosupp": "Uranus n'a été découvert que le 13 mars 1781 par le musicien et astronome William Herschel"
+    },
+    {
+        "planete": "Neptune",
+        "question": "Quelle est la masse de Neptune comparée à la terre?",
+        "correct": "17 fois la masse de la Terre",
+        "choice1": "15 fois la masse de la Terre",
+        "choice2": "20 fois la masse de la Terre",
+        "choice3": "31 fois la masse de la Terre",
+        "infosupp": "Bien qu’Uranus est la plus grande planète dans le système solaire, mais la masse de Neptune est plus grande qu’Uranus."
+    },
+    {
+        "planete": "Neptune",
+        "question": "De quelle couleur apparaît Neptune dans un petit télescope ?",
+        "correct": "Blue",
+        "choice1": "Blanc",
+        "choice2": "Orange",
+        "choice3": "Rouge",
+        "infosupp": "Comme Uranus, la couleur bleue provient de l’absorption de la lumière rouge par le méthane dans l’atmosphère de Neptune."
+    },
+    {
+        "planete": "Neptune",
+        "question": "Quel est le plus grand satellite de Neptune ?",
+        "correct": "Triton",
+        "choice1": "Titan",
+        "choice2": "Ganymède",
+        "choice3": "Nereid",
+        "infosupp": "Triton est un satellite intéressant. Son orbite est rétrograde autour de Neptune et son atmosphère est ténue. Triton a dû se former ailleurs dans le Système Solaire et ensuite être 'capturé' par Neptune. Triton finira par se désintégrer ou s’écraser sur Neptune puisque son orbite est abaissée par les interactions de marée avec Neptune."
+    },
+    {
+        "planete": "Neptune",
+        "question": "Quel est le nom grec de Neptune ?",
+        "correct": "Poséidon",
+        "choice1": "Ouranos",
+        "choice2": "Apollo",
+        "choice3": "Zeus",
+        "infosupp": "Poséidon, le dieu de la mer! Un fait intéressant à propos de Neptune, quand Voyager 2 a visité la géante gazeuse en 1989, il y avait une Grande Tache Noire. Les observations effectuées par le télescope spatial Hubble en 1994 montrent que la Grande Tache Noire a disparu ! Elle s’est dissipée ou est couverte par un autre processus qui se déroule dans l’atmosphère de Neptune."
+    },
+    {
+        "planete": "Neptune",
+        "question": "Les scientifiques ont découvert combien de satellites autour de Neptune ?",
+        "correct": "14",
+        "choice1": "10",
+        "choice2": "18",
+        "choice3": "30",
+        "infosupp": "Les satellites naturels de Neptune sont actuellement, de manière confirmée, au nombre de 14. Le plus gros d'entre eux, Triton, est le premier à avoir été découvert en octobre 1846."
+    },
+    {
+        "planete": "Neptune",
+        "question": "Neptune est une planète gazeuse géante qui est probablement composée de         et           ",
+        "correct": "glace, roche",
+        "choice1": "eau, terre",
+        "choice2": "montagnes, volcans",
+        "choice3": "gas, eau",
+        "infosupp": "Sa composition interne est similaire à celle d'Uranus. Neptune serait pourvue d'un noyau rocheux de fer et de silicates, lui-même entouré d'eau, de méthane et d'hydrocarbures dans différents états allant de solide (glaces) à liquide."
+    },
+      {
+        "planete": "Neptune",
+        "question": "Neptune est la          planète du système solaire.",
+        "correct": "Quatrième plus grande",
+        "choice1": "Deuxième plus grande",
+        "choice2": "Plus grande",
+        "choice3": "Plus petite",
+        "infosupp": "Il s'agit de la troisième planète la plus massive du Système solaire et de la quatrième plus grande par la taille, un peu plus massive mais un peu plus petite qu'Uranus. Par ailleurs, elle est la planète géante la plus dense."
+    },
+    {
+        "planete": "Neptune",
+        "question": "Lequel des énoncés suivants décrit le mieux l’atmosphère à Neptune ?",
+        "correct": "extrêmement froid.",
+        "choice1": "similaire à l’atmosphère terrestre",
+        "choice2": "chaud et riche en oxygène",
+        "choice3": "extrêmement chaud",
+        "infosupp": "Neptune, étant la 8ème planète de notre système solaire, c'est la plus éloignée du soleil et elle a la température moyenne la plus froide (environ -214°C)."
+    },
+    {
+        "planete": "Neptune",
+        "question": "Combien de temps dure une journée sur Neptune ?",
+        "correct": "16,1 heures",
+        "choice1": "24,6 heures",
+        "choice2": "88 jours terrestres",
+        "choice3": "243 jours terrestres",
+        "infosupp": "Le jour sur neptune est un peu plus courts que sur terre, et dure environs 16.1 heures."
+    },
+    {
+        "planete": "Neptune",
+        "question": "Quel type de planète est Neptune ?",
+        "correct": "Planète géante de glace",
+        "choice1": "Planète naine",
+        "choice2": "Planète géante de gaz",
+        "choice3": "Planète terrestre",
+        "infosupp": "Neptune est désignée comme une géante de glaces. Elle est surtout composée d'eau, d'ammoniac et de méthane sous forme solide. "
     }
 ]
