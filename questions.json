@@ -46,7 +46,7 @@
     },
     {
         "planete": "Soleil",
-        "question": "Qu'est-ce que le soleil utilise comme carburant ? ",
+        "question": "Qu'est-ce que le soleil utilise comme carburant ?",
         "correct": "Hydrogen",
         "choice1": "Helium",
         "choice2": "TNT",
@@ -69,7 +69,7 @@
         "choice1": "Un cercle jaune",
         "choice2": "Un cercle jaune avec des étoiles autour",
         "choice3": "un cercle rouge",
-        "infosupp": "L'usage de symboles astronomiques pour le soleil et la lune date de l'Antiquité. Ils apparaissent dans les papyrus d'horoscopes grecs sous la forme d'un cercle avec un rayon (Old symbol for sun.svg) pour le soleil et d'un croissant pour la lune3. Le symbole solaire moderne, un cercle avec un point au centre (☉), apparaît en Europe "
+        "infosupp": "L'usage de symboles astronomiques pour le soleil et la lune date de l'Antiquité. Ils apparaissent dans les papyrus d'horoscopes grecs sous la forme d'un cercle avec un rayon (Old symbol for sun.svg) pour le soleil et d'un croissant pour la lune3. Le symbole solaire moderne, un cercle avec un point au centre (☉), apparaît en Europe ."
     },
     {
         "planete": "Soleil",
@@ -78,25 +78,25 @@
         "choice1": "Dans 3,6 milliards d'années",
         "choice2": "Dans 1,4 milliard d'années",
         "choice3": "Dans 10 milliard d'années",
-        "infosupp": "A moins qu’une hypothétique station service d’hydrogène lui donne une espérance de vie illimitée, il reste suffisamment de réserve au Soleil pour briller encore 5 autres milliards d’années."
+        "infosupp": "A moins qu’une hypothétique station service d’hydrogène lui donne une espérance de vie illimitée, il reste suffisamment de réserve au Soleil pour briller encore 5 autres milliards d’années ."
     },
     {
         "planete": "Soleil",
         "question": "De quoi le Soleil tire-t-il son énergie ?",
         "correct": "D'une fusion nucléaire",
         "choice1": "De la Lune",
-        "choice2": "de jupiter",
-        "choice3": "des etoiles ",
-        "infosupp": "ile soleil tire son énergie de réactions de fusion nucléaire qui transforment, dans son noyau, l’hydrogène en hélium, et se trouve dans un état d’équilibre hydrostatique, ne subissant ni contraction, ni dilatation continuelles."
+        "choice2": "De jupiter",
+        "choice3": "Des etoiles",
+        "infosupp": "Le soleil tire son énergie de réactions de fusion nucléaire qui transforment, dans son noyau, l’hydrogène en hélium, et se trouve dans un état d’équilibre hydrostatique, ne subissant ni contraction, ni dilatation continuelles ."
     },
     {
         "planete": "Mercure",
-        "question": "Quelle est la plage de température sur mercure?de -180°C a 430°C",
+        "question": "Quelle est la plage de température sur Mercure ?",
         "correct": "de -180°C a 430°C",
         "choice1": "de -150 °C  à 400 °C",
         "choice2": "de 30 °C à 70 °C",
         "choice3": "de -350 °C à -100 °C",
-        "infosupp": "Pendant la journée, la température à la surface de Mercure peut atteindre 430 °C. Comme la planète n'a pas d'atmosphère pour retenir cette chaleur, la température à la surface peut descendre jusqu'à -180 °C pendant la nuit."
+        "infosupp": "Pendant la journée, la température à la surface de Mercure peut atteindre 430 °C. Comme la planète n'a pas d'atmosphère pour retenir cette chaleur, la température à la surface peut descendre jusqu'à -180 °C pendant la nuit ."
     },
     {
         "planete": "Mercure",
@@ -105,16 +105,16 @@
         "choice1": "1",
         "choice2": "17",
         "choice3": "aucun",
-        "infosupp": "Le soleil du matin semble se lever brièvement, se coucher et se lever à nouveau depuis certaines parties de la surface de la planète. La même chose se produit en sens inverse au coucher du soleil pour d'autres parties de la surface."
+        "infosupp": "Le soleil du matin semble se lever brièvement, se coucher et se lever à nouveau depuis certaines parties de la surface de la planète. La même chose se produit en sens inverse au coucher du soleil pour d'autres parties de la surface ."
     },
     {
         "planete": "Mercure",
-        "question": "Combien de temps dure une année sur Mercure en jours terrestres ? ",
+        "question": "Combien de temps dure une année sur Mercure en jours terrestres ?",
         "correct": "88",
         "choice1": "125",
-        "choice2": "365",
-        "choice3": "31",
-        "infosupp": "Mercure effectue une orbite complète autour du Soleil (une année) en seulement 88 jours terrestres."
+        "choice2": "31",
+        "choice3": "365",
+        "infosupp": "Mercure effectue une orbite complète autour du Soleil (une année) en seulement 88 jours terrestres ."
     },
     {
         "planete": "Mercure",
@@ -123,7 +123,7 @@
         "choice1": "Guerre",
         "choice2": "Beauté",
         "choice3": "Paix",
-        "infosupp": "Mercure est une planète tellurique, comme le sont également Vénus, la Terre et Mars. Elle est près de trois fois plus petite et presque vingt fois moins massive que la Terre"
+        "infosupp": "Mercure est une planète tellurique, comme le sont également Vénus, la Terre et Mars. Elle est près de trois fois plus petite et presque vingt fois moins massive que la Terre ."
     },
     {
         "planete": "Mercure",
@@ -132,16 +132,16 @@
         "choice1": "Apollo 13",
         "choice2": "Soyuz-TM",
         "choice3": "The Mercury",
-        "infosupp": "La première sonde spatiale à avoir visité la planète Mercure s'appelait Mariner 10. Elle a survolé Mercure à trois reprises et a cartographié environ la moitié de la surface de la planète."
+        "infosupp": "La première sonde spatiale à avoir visité la planète Mercure s'appelait Mariner 10. Elle a survolé Mercure à trois reprises et a cartographié environ la moitié de la surface de la planète ."
     },
     {
         "planete": "Mercure",
-        "question": "Combien de satellites naturels possède Mercure?",
+        "question": "Combien de satellites naturels possède Mercure ?",
         "correct": "aucun",
         "choice1": "24",
         "choice2": "53",
         "choice3": "1000",
-        "infosupp": "Mercure n'a pas de satellites ou de systèmes d'anneaux. "
+        "infosupp": "Mercure n'a pas de satellites ou de systèmes d'anneaux ."
     },
     {
         "planete": "Mercure",
@@ -154,12 +154,12 @@
     },
     {
         "planete": "Mercure",
-        "question": "La gravité de Mercure par rapport à celle de la Terre (qui est de 1,00g) est de ?0.38g",
+        "question": "La gravité de Mercure par rapport à celle de la Terre (qui est de 1,00g) est de :",
         "correct": "0.38g",
         "choice1": "1g",
         "choice2": "3.65g",
         "choice3": "2.84g",
-        "infosupp": "La gravité sur Mercure est presque 3 fois moins forte que sur Terre."
+        "infosupp": "La gravité sur Mercure est presque 3 fois moins forte que sur Terre ."
     },
     {
         "planete": "Mercure",
@@ -168,20 +168,20 @@
         "choice1": "troisieme planete",
         "choice2": "sixieme planete",
         "choice3": "septieme planete",
-        "infosupp": "Mercure est la planète la plus proche du Soleil et la moins massive du Système solaireN 1."
+        "infosupp": "Mercure est la planète la plus proche du Soleil et la moins massive du Système solaire ."
     },
     {
         "planete": "Mercure",
-        "question": "quelle est sa période de révolution ?",
+        "question": "Quelle est sa période de révolution ?",
         "correct": "87 jours ",
         "choice1": "100 jours",
         "choice2": "365 jours",
         "choice3": "547 jours",
-        "infosupp": "La période de révolution, aussi appelée période orbitale, est la durée mise par un astre pour accomplir une révolution complète autour d’un autre astre547 jours"
+        "infosupp": "La période de révolution, aussi appelée période orbitale, est la durée mise par un astre pour accomplir une révolution complète autour d’un autre astre547 jours ."
     },
     {
         "planete": "Venus",
-        "question": " Vénus est aussi appelé  ________ ?",
+        "question": " Vénus est aussi appelé ....... ?",
         "correct": "L'étoile du matin",
         "choice1": "La planète rouge",
         "choice2": "La planète géante",
@@ -190,11 +190,11 @@
     },
     {
         "planete": "Venus",
-        "question": "Vénus est la _______ planète de système solaire.",
+        "question": "Vénus est la ....... planète de système solaire .",
         "correct": "deuxième",
         "choice1": "troixième",
         "choice2": "cinquiéme",
-        "choice3": "septième ",
+        "choice3": "septième",
         "infosupp": "Venus est la deuxième planète du Système solaire par ordre d'éloignement au Soleil, et la sixième plus grosse aussi bien par la masse que le diamètre. Elle doit son nom à la déesse romaine de l'amour. Vénus orbite autour du Soleil tous les 224,7 jours terrestres."
     },
     {
@@ -208,7 +208,7 @@
     },
     {
         "planete": "Venus",
-        "question": "4. Vénus orbite autour du Soleil tous les ______ jours",
+        "question": "Vénus orbite autour du Soleil tous les ....... jours",
         "correct": "224 jours",
         "choice1": "320 jours",
         "choice2": "150 jours",
@@ -221,12 +221,12 @@
         "correct": "Planète tellurique",
         "choice1": "Planète naine",
         "choice2": "Planète géante gazeuse",
-        "choice3": "Les 3 ",
+        "choice3": "Les 3",
         "infosupp": "Vénus est l'une des quatre planètes telluriques du Système solaire. Elle est parfois appelée la « planète sœur » de la Terre en raison des similitudes relatives de leurs diamètres, masses, proximités au Soleil et compositions."
     },
     {
         "planete": "Venus",
-        "question": "Les principaux gaz atmosphériques de Vénus sont le ______ et _______.",
+        "question": "Les principaux gaz atmosphériques de Vénus sont le ....... et .......",
         "correct": "le dioxyde de carbone et le diazote",
         "choice1": "L'Hydrogene et l'oxygene",
         "choice2": "L'Azote et l'Argon",
@@ -235,7 +235,7 @@
     },
     {
         "planete": "Venus",
-        "question": "Vénus et _______ sont des planètes qui se ressemblent.",
+        "question": "Vénus et ....... sont des planètes qui se ressemblent .",
         "correct": "Terre",
         "choice1": "Mercure",
         "choice2": "Mars",
@@ -244,7 +244,7 @@
     },
     {
         "planete": "Venus",
-        "question": " Vénus est un(e) : _______",
+        "question": " Vénus est un(e) : .......",
         "correct": "Planète",
         "choice1": "étoile",
         "choice2": "Lune",
@@ -253,7 +253,7 @@
     },
     {
         "planete": "Venus",
-        "question": "Vénus est___dans le classement des planètes les plus chaudes.Première",
+        "question": "Vénus est ....... dans le classement des planètes les plus chaudes .",
         "correct": "Première",
         "choice1": "deuxiéme",
         "choice2": "troisiéme",
@@ -262,25 +262,25 @@
     },
     {
         "planete": "Venus",
-        "question": "Vénus____satellite naturel.",
-        "correct": "a un ",
-        "choice1": "a trois ",
-        "choice2": "a sept",
-        "choice3": "a quatre",
-        "infosupp": " Venus tourne dans le sens opposé à celui des autres planètes "
+        "question": "Vénus a ..... satellite(s) naturel(s) .",
+        "correct": "un",
+        "choice1": "trois ",
+        "choice2": "sept",
+        "choice3": "quatre",
+        "infosupp": " Venus tourne dans le sens opposé à celui des autres planètes ."
     },
     {
         "planete": "Terre",
-        "question": "1. La Terre est la _______ planète de systeme solair.",
+        "question": "La Terre est la ....... planète de systeme solaire .",
         "correct": "deuxième",
-        "choice1": "Troixème",
+        "choice1": "troixème",
         "choice2": "quaterième",
         "choice3": "cinqième",
         "infosupp": "Notre système solaire compte 8 huit planètes. Parmi elles, on distingue la Terre qui est la troisième planète par ordre d'éloignement au Soleil et la cinquième plus grande du Système solaire aussi bien par la masse que le diamètre."
     },
     {
         "planete": "Terre",
-        "question": " Le gaz le plus abondant de l'atmosphère terrestre est : _________",
+        "question": "Le gaz le plus abondant de l'atmosphère terrestre est : .......",
         "correct": "Le Nitrogène",
         "choice1": "L'Hydrogène",
         "choice2": "L'Argon",
@@ -289,7 +289,7 @@
     },
     {
         "planete": "Terre",
-        "question": " Quel type de planète est Terre ?",
+        "question": "Quel type de planète est Terre ?",
         "correct": "Planète tellurique",
         "choice1": "Planète naine",
         "choice2": "exoplanète",
@@ -298,7 +298,7 @@
     },
     {
         "planete": "Terre",
-        "question": "4. La terre est aussi appelée : _______",
+        "question": "La Terre est aussi appelée : .......",
         "correct": " Planète bleue",
         "choice1": "Planète géante",
         "choice2": "La planète blanche",
@@ -307,7 +307,7 @@
     },
     {
         "planete": "Terre",
-        "question": "5. La Terre a _____ satellite(s) naturel(s)",
+        "question": "La Terre a ...... satellite(s) naturel(s) .",
         "correct": "un seul",
         "choice1": "deux",
         "choice2": "quatre",
@@ -316,7 +316,7 @@
     },
     {
         "planete": "Terre",
-        "question": "6. La Terre a plus de ____ d'années",
+        "question": "La Terre a plus de ....... d'années .",
         "correct": "4,5 milliards",
         "choice1": "4,5 millions",
         "choice2": "1 million",
@@ -325,7 +325,7 @@
     },
     {
         "planete": "Terre",
-        "question": " L'eau recouvre ___  de la surface de la terre",
+        "question": "L'eau recouvre ....... de la surface de la Terre .",
         "correct": "72%",
         "choice1": "65%",
         "choice2": "53%",
@@ -334,7 +334,7 @@
     },
     {
         "planete": "Terre",
-        "question": "En combien d'heures la Terre tourne -t-elle sur elle même?",
+        "question": "En combien d'heures la Terre tourne -t-elle sur elle même ?",
         "correct": "24h",
         "choice1": "37h",
         "choice2": "101h",
@@ -346,22 +346,22 @@
         "question": "Comment la Terre est-elle surnommée ?",
         "correct": "La planète bleu",
         "choice1": "La planète verte",
-        "choice2": "la planete orange",
-        "choice3": "la planete rouge",
+        "choice2": "La planete orange",
+        "choice3": "La planete rouge",
         "infosupp": "La terre a été surnommée planète bleue à cause de l’abondance de l’eau."
     },
     {
         "planete": "Terre",
         "question": "Comment le satellite naturel de la Terre s'appelle-t-il ?",
-        "correct": "la  lune",
-        "choice1": "appolo",
-        "choice2": "appolo",
-        "choice3": "soleil",
+        "correct": "Lune",
+        "choice1": "Appolo",
+        "choice2": "Phobos",
+        "choice3": "Soleil",
         "infosupp": "D'après la datation radiométrique, la Terre s'est formée il y a 4,54 milliards d'années. Elle possède un unique satellite naturel, la Lune, qui s'est formée peu après."
     },
     {
         "planete": "Mars",
-        "question": "Combien de lunes a Mars ?",
+        "question": "Combien de lune(s) a Mars ?",
         "correct": "2",
         "choice1": "1",
         "choice2": "4",
@@ -370,7 +370,7 @@
     },
     {
         "planete": "Mars",
-        "question": "La planète rouge.",
+        "question": "Mars est souvent surnommée .......",
         "correct": "La planète rouge.",
         "choice1": "La planète poussiéreuse.",
         "choice2": "La planète chaude.",
@@ -381,23 +381,23 @@
         "planete": "Mars",
         "question": "Il nous faut combien de temps pour aller sur Mars ?",
         "correct": "Huit mois",
-        "choice1": "Un mois.",
+        "choice1": "Un mois",
         "choice2": "Trois jours",
-        "choice3": "Deux ans.",
-        "infosupp": "la Terre et Mars suivent différentes orbites autour du Soleil, donc les explorateurs de l’espace doivent attendre que les deux planètes soient proches l’une de l’autre pour décoller. Même alors, le voyage prendrait un minimum d’environ huit mois."
+        "choice3": "Deux ans",
+        "infosupp": "La Terre et Mars suivent différentes orbites autour du Soleil, donc les explorateurs de l’espace doivent attendre que les deux planètes soient proches l’une de l’autre pour décoller. Même alors, le voyage prendrait un minimum d’environ huit mois."
     },
     {
         "planete": "Mars",
-        "question": "Vrai ou Faux,Les scientifiques ont trouvé des traces d’eau liquide sur Mars.",
-        "correct": "vrai",
+        "question": "Les scientifiques ont trouvé des traces d’eau liquide sur Mars",
+        "correct": "Vrai",
         "choice1": null,
         "choice2": null,
-        "choice3": "faux",
+        "choice3": "Faux",
         "infosupp": "Les scientifiques pensent que Mars avait autrefois des rivières, des lacs et peut-être même des océans. Aujourd’hui, de petites quantités d’eau coulent sur les parois des cratères."
     },
     {
         "planete": "Mars",
-        "question": "cette planète porte le nom du dieu romain Mars. de quoi est-il le dieu ?",
+        "question": "Cette planète porte le nom du dieu romain Mars. De quoi est-il le dieu ?",
         "correct": "Guerre",
         "choice1": "Incendie",
         "choice2": "Agriculture",
@@ -406,7 +406,7 @@
     },
     {
         "planete": "Mars",
-        "question": "Mars est la ________ planète du Soleil.",
+        "question": "Mars est la ....... planète du Soleil .",
         "correct": "Quatrième",
         "choice1": "Troisième",
         "choice2": "Deuxiéme",
@@ -415,7 +415,7 @@
     },
     {
         "planete": "Mars",
-        "question": "Quel est le gaz prédominant dans l’atmosphère de mars ?",
+        "question": "Quel est le gaz prédominant dans l’atmosphère de Mars ?",
         "correct": "Dioxyde de carbone ",
         "choice1": "Hydrogène ",
         "choice2": "Oxygène",
@@ -424,7 +424,7 @@
     },
     {
         "planete": "Mars",
-        "question": "Vrai ou faux ? mars a le plus grand volcan dans le système solaire.",
+        "question": "Mars a le plus grand volcan dans le système solaire .",
         "correct": "Vrai",
         "choice1": null,
         "choice2": null,
@@ -442,7 +442,7 @@
     },
     {
         "planete": "Mars",
-        "question": "Vrai ou faux, les gens marchaient sur Mars ",
+        "question": "Les gens marchaient sur Mars",
         "correct": "Faux",
         "choice1": null,
         "choice2": null,
@@ -451,7 +451,7 @@
     },
     {
         "planete": "Jupiter",
-        "question": "Jupiter est la ______ planète du Soleil.",
+        "question": "Jupiter est la ....... planète du Soleil .",
         "correct": "Sinquième",
         "choice1": "Septième",
         "choice2": "derniére",
@@ -460,25 +460,25 @@
     },
     {
         "planete": "Jupiter",
-        "question": "6.  Quel type de planète est Jupiter?",
+        "question": "Quel type de planète est Jupiter ?",
         "correct": "Planète géante de gaz",
-        "choice1": "Planète naine ",
-        "choice2": " Planète terrestre",
+        "choice1": "Planète naine",
+        "choice2": "Planète terrestre",
         "choice3": "Planète géante de glace",
         "infosupp": "Jupiter est la plus grande des huit planètes du système solaire. Jupiter a plus de 300 fois la masse de la Terre. Il est classé comme l’un des Joviens ou géants du gaz."
     },
     {
         "planete": "Jupiter",
-        "question": "Lequel des énoncés suivants décrit le mieux la surface de Jupiter?",
-        "correct": "Une épaisse couche de gaz hydrogène.",
-        "choice1": "Froid, rocheux et recouvert de poussière rouge.",
-        "choice2": "Nuageux et chaud avec beaucoup de volcans.",
-        "choice3": "Principalement la surface de l’eau avec quelques ares de terre sèche.",
+        "question": "Lequel des énoncés suivants décrit le mieux la surface de Jupiter ?",
+        "correct": "Une épaisse couche de gaz hydrogène .",
+        "choice1": "Froid, rocheux et recouvert de poussière rouge .",
+        "choice2": "Nuageux et chaud avec beaucoup de volcans .",
+        "choice3": "Principalement la surface de l’eau avec quelques ares de terre sèche .",
         "infosupp": "Il y a des tempêtes et du temps sur Jupiter. Il n’y a pas de tempêtes avec de l’eau qui tombe des nuages. Il y a des tempêtes de la taille des planètes avec du méthane, de l’ammoniac ou de l’hydrosulfure d’ammoniac qui circulent à la surface de la planète."
     },
     {
         "planete": "Jupiter",
-        "question": "13.  Quelle est la masse de Jupiter par rapport à la masse de la Terre?",
+        "question": "Quelle est la masse de Jupiter par rapport à la masse de la Terre?",
         "correct": "318 fois la masse de la terre",
         "choice1": "95 fois la masse de la Terre",
         "choice2": "5,5% de la masse terrestre",
@@ -487,7 +487,7 @@
     },
     {
         "planete": "Jupiter",
-        "question": "et la cinquième planète par sa distance au Soleil",
+        "question": "Combien de temps dure une journée sur Jupiter ?",
         "correct": "9,8 heures",
         "choice1": "10,7 heures",
         "choice2": "24,6 heures",
@@ -496,7 +496,7 @@
     },
     {
         "planete": "Jupiter",
-        "question": "Quel scientifique célèbre a découvert les quatre plus grandes lunes de Jupiter?",
+        "question": "Quel scientifique célèbre a découvert les quatre plus grandes lunes de Jupiter ?",
         "correct": "Galileo",
         "choice1": "Isaac Newton",
         "choice2": "Carl sagan",
@@ -507,14 +507,14 @@
         "planete": "Jupiter",
         "question": "Quelle est la grande tache rouge de Jupiter ?",
         "correct": "Tempête massive",
-        "choice1": "volcan",
+        "choice1": "Volcan",
         "choice2": "Crater",
-        "choice3": "lac",
+        "choice3": "Lac",
         "infosupp": "La Grande Tache rouge est un gigantesque anticyclone de l'atmosphère de Jupiter situé à 22 ° sud de latitude. Longue d'environ 15 000 kilomètres et large de près de 12 000 kilomètres (2015),"
     },
     {
         "planete": "Jupiter",
-        "question": "18.   Comment s’appelle la tempête géante sur Jupiter?",
+        "question": "Comment s’appelle la tempête géante sur Jupiter ",
         "correct": "La grande tache rouge",
         "choice1": "Le point géant",
         "choice2": "La rotation massive",
@@ -523,16 +523,16 @@
     },
     {
         "planete": "Jupiter",
-        "question": "Jupiter est la planète ______ du système solaire.",
-        "correct": "Plus grand",
-        "choice1": "Sixième plus grand ",
-        "choice2": "Deuxième plus petit ",
-        "choice3": "Plus petit ",
+        "question": "Jupiter est la ....... planète du système solaire .",
+        "correct": "plus grande",
+        "choice1": "sixième plus grande",
+        "choice2": "deuxième plus petite",
+        "choice3": "plus petite",
         "infosupp": "Jupiter, la première planète à s'être formée autour du Soleil. Jupiter est donc la plus grande planète du Système solaire."
     },
     {
         "planete": "Jupiter",
-        "question": "1. Jupiter est la plus grande planète en orbite autour du Soleil.",
+        "question": "Jupiter est la plus grande planète en orbite autour du Soleil .",
         "correct": "Vrai",
         "choice1": null,
         "choice2": null,
@@ -540,17 +540,17 @@
         "infosupp": "Jupiter est la plus grande des huit planètes du système solaire. Jupiter a plus de 300 fois la masse de la Terre. Il est classé comme l’un des Joviens ou géants du gaz."
     },
     {
-        "planete": "Saturn",
-        "question": " Combien de satelites naturels à-t il saturn ?",
+        "planete": "Saturne",
+        "question": "Combien de satelites naturels à-t il Saturn ?",
         "correct": "82",
         "choice1": "28",
         "choice2": "14",
         "choice3": "7",
-        "infosupp": "la planéte qui as le plus grand nombre de satélites est : Saturne"
+        "infosupp": "Saturne est la planéte qui as le plus grand nombre de satélites ."
     },
     {
-        "planete": "Saturn",
-        "question": "  Quel est le nombre d’anneaux de Saturne?",
+        "planete": "Saturne",
+        "question": "Quel est le nombre d’anneaux de Saturn ?",
         "correct": "7",
         "choice1": "3",
         "choice2": "2",
@@ -558,8 +558,8 @@
         "infosupp": "Un anneau planétaire est une région en forme de disque mince se situant autour d'une planète"
     },
     {
-        "planete": "Saturn",
-        "question": " Qui a observé Saturne pour la première fois ?",
+        "planete": "Saturne",
+        "question": "Qui a observé Saturne pour la première fois ?",
         "correct": "Galileo Galilei",
         "choice1": "Isaac Newton",
         "choice2": "Johannes Kepler",
@@ -567,8 +567,8 @@
         "infosupp": "La première observation de Saturne a été faite par l'astronome italien Galilée. En voyant les anneaux, Galilée ne comprend pas ce qu'il voit, il pense que Saturne a des oreilles."
     },
     {
-        "planete": "Saturn",
-        "question": "Distance entre la Terre et Saturne  est ",
+        "planete": "Saturne",
+        "question": "La distance entre la Terre et Saturne est :",
         "correct": "1 277 000 000 km",
         "choice1": "2 874 105 000 Km",
         "choice2": "3 245 142 000 Km",
@@ -576,80 +576,80 @@
         "infosupp": "Mercure est la plus proche planéte de la terre."
     },
     {
-        "planete": "Saturn",
-        "question": "Saturn est la .... plus grande planéte dans le systéme solaire",
+        "planete": "Saturne",
+        "question": "Saturne est la ....... plus grande planéte dans le systéme solaire",
         "correct": "deuxiéme",
         "choice1": "troisiéme",
         "choice2": "quatriéme",
         "choice3": "septiéme",
-        "infosupp": "jupiter est la plus grosse planéte du systéme solaire"
+        "infosupp": "Jupiter est la plus grosse planéte du systéme solaire"
     },
     {
-        "planete": "Saturn",
-        "question": "Saturn est la ... plus lourde planéte dans le systeme solaire",
+        "planete": "Saturne",
+        "question": "Saturne est la ....... plus lourde planéte dans le systeme solaire",
         "correct": "deuxiéme",
         "choice1": "troisiéme",
         "choice2": "cinquiéme",
         "choice3": "aucune",
-        "infosupp": "jupiter est la plus lourde planéte du systéme solaire"
+        "infosupp": "Jupiter est la plus lourde planéte du systéme solaire ."
     },
     {
-        "planete": "Saturn",
+        "planete": "Saturne",
         "question": "Quelle est la température moyenne à la surface de Saturne ?",
         "correct": "184 °C",
         "choice1": "90 °C",
-        "choice2": "58°C",
+        "choice2": "58 °C",
         "choice3": "37 °C",
-        "infosupp": "la planète où il fait le plus chaud  est Vénus"
+        "infosupp": "La planète où il fait le plus chaud est Vénus ."
     },
     {
-        "planete": "Saturn",
+        "planete": "Saturne",
         "question": "Quel genre d'astre est-elle ?",
         "correct": "une planéte",
         "choice1": "Une étoile",
         "choice2": "Un Soleil",
         "choice3": "Une nébutleuse",
-        "infosupp": "on as plusieures autres types dastre : Comète,Supernova,Galaxie,Quasar,Amas d'étoiles,Nébuleuse."
+        "infosupp": "On as plusieures autres types dastre : Comète, Supernova, Galaxie, Quasar, Amas d'étoiles et Nébuleuse ."
     },
     {
-        "planete": "Saturn",
-        "question": "Saturn est obsérver la premiére fois en .....",
+        "planete": "Saturne",
+        "question": "Saturne est obsérvée la premiére fois en .......",
         "correct": "1610",
         "choice1": "1656",
         "choice2": "1846",
         "choice3": "1917",
-        "infosupp": "Apres l'observation ed saturn en 1610 , en 1612, l'astronome observe Saturne, mais les anneaux ont disparu, puis ils réapparaissent l'année suivante. En réalité, la Terre était passée dans le plan des anneaux, et comme ils sont très fins, apres l'observation de saturn en 1610 , ils étaient alors invisibles depuis la Terre. Ce phénomène se produit régulièrement."
+        "infosupp": "Apres l'observation de saturn en 1610, en 1612, l'astronome observe Saturne, mais les anneaux ont disparu, puis ils réapparaissent l'année suivante. En réalité, la Terre était passée dans le plan des anneaux, et comme ils sont très fins, apres l'observation de saturn en 1610 , ils étaient alors invisibles depuis la Terre. Ce phénomène se produit régulièrement."
     },
     {
-        "planete": "Saturn",
-        "question": "Le nom du plus grand satellite  naturel de Saturn est .... ",
+        "planete": "Saturne",
+        "question": "Le nom du plus grand satellite naturel de Saturne est ....... ",
         "correct": "Titan",
         "choice1": "Mimas",
-        "choice2": "japet",
+        "choice2": "Japet",
         "choice3": "Hypérion",
         "infosupp": "Le plus grand satellite naturede saturn l, Titan, fut découverte en 1655 par Christian Huygens grâce à un objectif de 57 mm monté sur une lunette astronomique de sa conception."
     },
     {
         "planete": "Uranus",
-        "question": "Quelle est la couleur d'Uranus?",
-        "correct": "bleu vert",
+        "question": "Quelle est la couleur d'Uranus ?",
+        "correct": "bleu & vert",
         "choice1": "bleu",
         "choice2": "vert",
         "choice3": "orange",
-        "infosupp": "la couleur bleue d'Uranus est due à la présence de méthane qui réfléchit le bleu"
+        "infosupp": "La couleur bleue d'Uranus est due à la présence de méthane qui réfléchit le bleu"
     },
     {
         "planete": "Uranus",
-        "question": "Uranus est ________ planéte dans le systéme soleil par ordre d'éloignement au soleil",
+        "question": "Uranus est ....... planéte dans le systéme solaire par ordre d'éloignement au soleil",
         "correct": " la septiéme.",
         "choice1": "la huitième",
         "choice2": "la cinquième",
         "choice3": "la deuxième",
-        "infosupp": "Mercure est la premiéreplanéte dans le systéme soleil par ordre d'éloignement au soleil"
+        "infosupp": "Mercure est la premiére planéte dans le systéme soleil par ordre d'éloignement au soleil"
     },
     {
         "planete": "Uranus",
-        "question": "Une année sur Uranus correspond à _____",
+        "question": "Une année sur Uranus correspond à .......",
         "correct": "84.02 années (84 ans et 7 jours)",
         "choice1": "94 ans",
         "choice2": "42 ans",
@@ -658,7 +658,7 @@
     },
     {
         "planete": "Uranus",
-        "question": "la distance entre uranus et le soleil est ______ ",
+        "question": "La distance entre Uranus et le Soleil est .......",
         "correct": "2869000000 Km",
         "choice1": "1400000000 Km",
         "choice2": "3248718000 Km",
@@ -667,25 +667,25 @@
     },
     {
         "planete": "Uranus",
-        "question": "eut-on respirer sur Uranus?",
-        "correct": " Non",
+        "question": "Peut-on respirer sur Uranus ?",
+        "correct": "Non",
         "choice1": null,
         "choice2": null,
-        "choice3": "oui",
-        "infosupp": "Pour respirer, le corps humain a besoin d'oxygène"
+        "choice3": "Oui",
+        "infosupp": "Pour respirer, le corps humain a besoin d'Oxygène"
     },
     {
         "planete": "Uranus",
-        "question": "Quel mois voit-on  Uranus mieux?",
+        "question": "Quel mois voit-on Uranus mieux ?",
         "correct": "Aout",
-        "choice1": "juillet",
-        "choice2": "mars",
-        "choice3": "janvier",
+        "choice1": "Juillet",
+        "choice2": "Mars",
+        "choice3": "Janvier",
         "infosupp": "Uranus est pourtant théoriquement visible à l'œil nu si le ciel est bien noir "
     },
     {
         "planete": "Uranus",
-        "question": "pour atteindre Uranus la lumiéer du soleil met ",
+        "question": "Pour atteindre Uranus la lumiére du Soleil met ",
         "correct": "3 heures",
         "choice1": "2 heures et 30 minutes 4 heures et 20 minutes",
         "choice2": " 4 heures et 20 minutes",
@@ -694,25 +694,25 @@
     },
     {
         "planete": "Uranus",
-        "question": "8.Est-ce que Uranus est habitable ?",
-        "correct": "non",
+        "question": "Est-ce que Uranus est habitable ?",
+        "correct": "Non",
         "choice1": null,
         "choice2": null,
-        "choice3": "oui",
-        "infosupp": "la temppérature de uranus arrive jusqu'a -224 °C"
+        "choice3": "Oui",
+        "infosupp": "La temppérature de uranus arrive jusqu'a -224 °C"
     },
     {
         "planete": "Uranus",
-        "question": "9.Uranus est bleu a cause de la presénce de l'eau sur cette planéte",
-        "correct": "faux",
+        "question": "Uranus est bleu a cause de la presénce de l'eau sur cette planéte",
+        "correct": "Faux",
         "choice1": null,
         "choice2": null,
         "choice3": "Vrai",
-        "infosupp": "la couleur bleue d'Uranus est due à la présence de méthane qui réfléchit le bleu"
+        "infosupp": "La couleur bleue d'Uranus est due à la présence de méthane qui réfléchit le bleu"
     },
     {
         "planete": "Uranus",
-        "question": "Quand Uranus a-t-elle été découverte?",
+        "question": "Quand Uranus a-t-elle été découvert ?",
         "correct": "1781",
         "choice1": "1804",
         "choice2": "1867",
@@ -721,7 +721,7 @@
     },
     {
         "planete": "Neptune",
-        "question": "Quelle est la masse de Neptune comparée à la terre?",
+        "question": "Quelle est la masse de Neptune comparée à la Terre?",
         "correct": "17 fois la masse de la Terre",
         "choice1": "15 fois la masse de la Terre",
         "choice2": "20 fois la masse de la Terre",
@@ -731,7 +731,7 @@
     {
         "planete": "Neptune",
         "question": "De quelle couleur apparaît Neptune dans un petit télescope ?",
-        "correct": "Blue",
+        "correct": "Bleu",
         "choice1": "Blanc",
         "choice2": "Orange",
         "choice3": "Rouge",
@@ -766,7 +766,7 @@
     },
     {
         "planete": "Neptune",
-        "question": "Neptune est une planète gazeuse géante qui est probablement composée de         et           ",
+        "question": "Neptune est une planète gazeuse géante qui est probablement composée de ....... et .......",
         "correct": "glace, roche",
         "choice1": "eau, terre",
         "choice2": "montagnes, volcans",
@@ -775,20 +775,20 @@
     },
       {
         "planete": "Neptune",
-        "question": "Neptune est la          planète du système solaire.",
-        "correct": "Quatrième plus grande",
-        "choice1": "Deuxième plus grande",
-        "choice2": "Plus grande",
-        "choice3": "Plus petite",
+        "question": "Neptune est la ....... planète du système solaire.",
+        "correct": "quatrième plus grande",
+        "choice1": "deuxième plus grande",
+        "choice2": "plus grande",
+        "choice3": "plus petite",
         "infosupp": "Il s'agit de la troisième planète la plus massive du Système solaire et de la quatrième plus grande par la taille, un peu plus massive mais un peu plus petite qu'Uranus. Par ailleurs, elle est la planète géante la plus dense."
     },
     {
         "planete": "Neptune",
         "question": "Lequel des énoncés suivants décrit le mieux l’atmosphère à Neptune ?",
-        "correct": "extrêmement froid.",
-        "choice1": "similaire à l’atmosphère terrestre",
-        "choice2": "chaud et riche en oxygène",
-        "choice3": "extrêmement chaud",
+        "correct": "Extrêmement froid",
+        "choice1": "Similaire à l’atmosphère terrestre",
+        "choice2": "Chaud et riche en Oxygène",
+        "choice3": "Extrêmement chaud",
         "infosupp": "Neptune, étant la 8ème planète de notre système solaire, c'est la plus éloignée du soleil et elle a la température moyenne la plus froide (environ -214°C)."
     },
     {
