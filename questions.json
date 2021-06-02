@@ -272,8 +272,8 @@
     {
         "planete": "Terre",
         "question": "La Terre est la ....... planète de systeme solaire .",
-        "correct": "deuxième",
-        "choice1": "troixème",
+        "correct": "troixème",
+        "choice1": "deuxième",
         "choice2": "quaterième",
         "choice3": "cinqième",
         "infosupp": "Notre système solaire compte 8 huit planètes. Parmi elles, on distingue la Terre qui est la troisième planète par ordre d'éloignement au Soleil et la cinquième plus grande du Système solaire aussi bien par la masse que le diamètre."
@@ -289,7 +289,7 @@
     },
     {
         "planete": "Terre",
-        "question": "Quel type de planète est Terre ?",
+        "question": "Quel type de planète est  la Terre ?",
         "correct": "Planète tellurique",
         "choice1": "Planète naine",
         "choice2": "exoplanète",
