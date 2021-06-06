@@ -452,11 +452,11 @@
     {
         "planete": "Jupiter",
         "question": "Jupiter est la ....... planète du Soleil .",
-        "correct": "Sinquième",
-        "choice1": "Septième",
+        "correct": "cinquième",
+        "choice1": "septième",
         "choice2": "derniére",
-        "choice3": "Première",
-        "infosupp": "Jupiter est  la plus grosse planète du Système solaire, et la cinquième planète par sa distance au Soleil"
+        "choice3": "première",
+        "infosupp": "Jupiter est la plus grosse planète du Système solaire, et la cinquième planète par sa distance au Soleil"
     },
     {
         "planete": "Jupiter",
