@@ -272,7 +272,7 @@
     {
         "planete": "Terre",
         "question": "La Terre est la ....... planète de systeme solaire .",
-        "correct": "troixème",
+        "correct": "troisième",
         "choice1": "deuxième",
         "choice2": "quaterième",
         "choice3": "cinqième",
