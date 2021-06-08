@@ -1,6 +1,6 @@
  [
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Quelle est la distance entre le Soleil et la Terre ?",
         "correct": "150 millions km",
         "choice1": "40 millions km",
@@ -9,7 +9,7 @@
         "infosupp": "Le Soleil se trouve à une distance moyenne d'environ 150 km de la Terre. La Terre n'orbite pas autour du Soleil en un cercle parfait mais son orbite est elliptique ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Combien de temps prend la lumière du Soleil pour arriver sur Terre ?",
         "correct": "8 min. 20 sec.",
         "choice1": "immédiatement",
@@ -18,7 +18,7 @@
         "infosupp": "Voici le calcul . Nous gravitons autour du soleil à une distance d'environ 150 millions de km. La lumière se déplace à 300 000 km/s. Divisez-les et vous obtenez 500 secondes ou 8 minutes et 20 secondes ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Le Soleil apparait jaune de la Terre , mais quelle est sa couleur réelle ?",
         "correct": "Blanche",
         "choice1": "Jaune",
@@ -27,7 +27,7 @@
         "infosupp": "Le Soleil n'est pas réellement jaune, c'est juste une illusion causée par l'atmosphère terrestre. Les processus puissants qui se produisent à l'intérieur du Soleil sont si robustes qu'il émet toutes les couleurs de lumière imaginables, ensemble, ces couleurs forment une lumière blanche pure ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Quelle est la température moyenne a la surface du Soleil ?",
         "correct": "4700 °C",
         "choice1": "10000 °C",
@@ -36,7 +36,7 @@
         "infosupp": "La température à la surface du soleil varie entre 8500 degrés Celsius au plus profond de la photosphère et atteint 4200 degrés Celsius à la surface de la photosphère. La température du centre du soleil est environ de 15 000 000 degrés Celsius ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Depuis combien de temps le soleil existe-t-il ?",
         "correct": "4.5 milliard d'années",
         "choice1": "10.5 milliards d'années",
@@ -45,7 +45,7 @@
         "infosupp": "Le soleil brille depuis environ 4,5 milliards d'années les étoiles comme notre soleil brûlent pendant environ 10 milliards d'années . Notre soleil est donc à la moitié de sa vie, mais ne vous inquiétez pas, il lui reste encore 5 milliards d'années à vivre ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Qu'est-ce que le soleil utilise comme carburant ?",
         "correct": "Hydrogen",
         "choice1": "Helium",
@@ -54,7 +54,7 @@
         "infosupp": "La source du combustible solaire est l'hydrogène. Par une réaction chimique spéciale, appelée fusion nucléaire, l'hydrogène est 'brûlé' en libérant une énorme quantité d'énergie sous forme de lumière et de chaleur ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Le soleil est :",
         "correct": "Une étoile",
         "choice1": "Une planéte",
@@ -63,7 +63,7 @@
         "infosupp": "Le soleil est une étoile. c'est une énorme sphère de gaz chauds qui tourne sur elle-même. Le soleil est le centre de notre système solaire et contient la plupart de la masse de ce dernier. toutes les planètes orbitent autour du soleil ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Quel est le symbole astronomique et astrologique du Soleil ?",
         "correct": "Un cercle avec un point en son centre",
         "choice1": "Un cercle jaune",
@@ -72,7 +72,7 @@
         "infosupp": "L'usage de symboles astronomiques pour le soleil et la lune date de l'Antiquité. Ils apparaissent dans les papyrus d'horoscopes grecs sous la forme d'un cercle avec un rayon (Old symbol for sun.svg) pour le soleil et d'un croissant pour la lune3. Le symbole solaire moderne, un cercle avec un point au centre (☉), apparaît en Europe ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "Dans combien de temps le Soleil ne brillera-t-il plus ?",
         "correct": "Dans 5,5 milliards d'années",
         "choice1": "Dans 3,6 milliards d'années",
@@ -81,7 +81,7 @@
         "infosupp": "A moins qu’une hypothétique station service d’hydrogène lui donne une espérance de vie illimitée, il reste suffisamment de réserve au Soleil pour briller encore 5 autres milliards d’années ."
     },
     {
-        "planete": "Soleil",
+        "planete": "soleil",
         "question": "De quoi le Soleil tire-t-il son énergie ?",
         "correct": "D'une fusion nucléaire",
         "choice1": "De la Lune",
