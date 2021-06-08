@@ -189,7 +189,7 @@
         "infosupp": "On l'appelle aussi l'étoile du matin, parce que c'est le dernier corps céleste que l'on voit dans le ciel avant l'arrivée du soleil. Vénus est une planète inférieure. Cela veut dire qu'elle montre des phases quand on l'observe d'un télescope depuis la terre."
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Vénus est la ....... planète de système solaire .",
         "correct": "deuxième",
         "choice1": "troixième",
@@ -198,7 +198,7 @@
         "infosupp": "Venus est la deuxième planète du Système solaire par ordre d'éloignement au Soleil, et la sixième plus grosse aussi bien par la masse que le diamètre. Elle doit son nom à la déesse romaine de l'amour. Vénus orbite autour du Soleil tous les 224,7 jours terrestres."
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Sur Vénus, la température moyenne est de :",
         "correct": "462°C",
         "choice1": "350°C",
@@ -207,7 +207,7 @@
         "infosupp": "A la surface de Vénus, la température est de 465°C. C'est la plus chaude des planètes du système solaire. Vénus se trouve à 108 Millions de Km du soleil, elle en est donc plus proche que la Terre . Pourtant, cela ne suffit pas à expliquer la différence de température. En effet, l'atmosphère de Vénus est tellement dense qu'elle empêche 80 % des rayons solaires de passer et d'atteindre la surface."
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Vénus orbite autour du Soleil tous les ....... jours",
         "correct": "224 jours",
         "choice1": "320 jours",
@@ -216,7 +216,7 @@
         "infosupp": "Vénus orbite autour du Soleil tous les 224,7 jours terrestres. Avec une période de rotation de 243 jours terrestres, il lui faut plus de temps pour tourner autour de son axe que toute autre planète du Système solaire."
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Quel type de planète est Vénus ?",
         "correct": "Planète tellurique",
         "choice1": "Planète naine",
@@ -225,7 +225,7 @@
         "infosupp": "Vénus est l'une des quatre planètes telluriques du Système solaire. Elle est parfois appelée la « planète sœur » de la Terre en raison des similitudes relatives de leurs diamètres, masses, proximités au Soleil et compositions."
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Les principaux gaz atmosphériques de Vénus sont le ....... et .......",
         "correct": "le dioxyde de carbone et le diazote",
         "choice1": "L'Hydrogene et l'oxygene",
@@ -234,7 +234,7 @@
         "infosupp": "Les principaux gaz atmosphériques de Vénus sont le dioxyde de carbone et le diazote. Les autres composants sont présents seulement sous forme de traces"
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Vénus et ....... sont des planètes qui se ressemblent .",
         "correct": "Terre",
         "choice1": "Mercure",
@@ -243,7 +243,7 @@
         "infosupp": "Vénus est parfois qualifiée de « sœur jumelle infernale » de la Terre, en raison de sa température, son atmosphère, ses nuages acides, etc. Des sondes l'ont étudiée de près, non sans mal au départ, permettant d’en apprendre davantage. Mais une fois encore, de nombreux mystères demeurent."
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": " Vénus est un(e) : .......",
         "correct": "Planète",
         "choice1": "étoile",
@@ -252,7 +252,7 @@
         "infosupp": "Vénus est la 2e planète la plus proche du Soleil, et ressemble beaucoup à la Terre par sa taille et sa masse. Néanmoins, le rapprochement s’arrête là. Il s’agit en effet de la planète la plus chaude du Système solaire."
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Vénus est ....... dans le classement des planètes les plus chaudes .",
         "correct": "Première",
         "choice1": "deuxiéme",
@@ -261,7 +261,7 @@
         "infosupp": " Venus est parfois appelée la « planète sœur » de la Terre"
     },
     {
-        "planete": "Venus",
+        "planete": "venus",
         "question": "Vénus a ..... satellite(s) naturel(s) .",
         "correct": "un",
         "choice1": "trois ",
@@ -270,7 +270,7 @@
         "infosupp": " Venus tourne dans le sens opposé à celui des autres planètes ."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "La Terre est la ....... planète de systeme solaire .",
         "correct": "troisième",
         "choice1": "deuxième",
@@ -279,7 +279,7 @@
         "infosupp": "Notre système solaire compte 8 huit planètes. Parmi elles, on distingue la Terre qui est la troisième planète par ordre d'éloignement au Soleil et la cinquième plus grande du Système solaire aussi bien par la masse que le diamètre."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "Le gaz le plus abondant de l'atmosphère terrestre est : .......",
         "correct": "Le Nitrogène",
         "choice1": "L'Hydrogène",
@@ -288,7 +288,7 @@
         "infosupp": "L'atmosphère terrestre est l'enveloppe gazeuse, entourant la Terre, que l'on appelle air. L'air sec se compose à 78,087 % d'Azote (Nitrogène) , à 20,95 % d'Oxygène, à 0,93 % d'Argon, à 0,041 % de dioxyde de carbone, et de traces d'autres gaz. "
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "Quel type de planète est  la Terre ?",
         "correct": "Planète tellurique",
         "choice1": "Planète naine",
@@ -297,7 +297,7 @@
         "infosupp": "Les planètes telluriques sont, par ailleurs des corps essentiellement rocheux, pourvus d'une atmosphère, au rôle sans doute important, mais qui ne représente qu'une région peu étendue."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "La Terre est aussi appelée : .......",
         "correct": " Planète bleue",
         "choice1": "La planète verte",
@@ -306,7 +306,7 @@
         "infosupp": "Vue de l'espace, la planète Terre apparaît toute bleue. À la surface de la Terre, on observe, de là-haut, des continents et des océans. Les océans dominent et, avec les mers, les lacs et les fleuves, ils ne représentent pas moins de 72 % de la surface totale du globe."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "La Terre a ...... satellite(s) naturel(s) .",
         "correct": "un seul",
         "choice1": "deux",
@@ -315,7 +315,7 @@
         "infosupp": "La Terre ne possède qu’un seul satellite naturel : la Lune. Celle-ci est dépourvue d’une atmosphère qui pourrait freiner l'arrivée d'autres corps célestes. Elle est par conséquent criblée de cratères d’impact de météorites."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "La Terre a plus de ....... d'années .",
         "correct": "4,5 milliards",
         "choice1": "4,5 millions",
@@ -324,7 +324,7 @@
         "infosupp": "L’histoire de notre planète commence il y a environ 4,5 milliards d’années. L’univers, dont l’âge est estimé à 13,7 milliards d’années, est alors déjà constitué de milliards d’étoiles, dont certaines sont arrivées en fin de vie. En explosant, endevenant des supernovae, elles ensemencent le cosmos d’innombrables particules de matière qui se regroupent pour former d’autres étoiles. C’est ainsi que notre Soleil, puis le système solaire et la Terre, voient le jour."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "L'eau recouvre ....... de la surface de la Terre .",
         "correct": "72%",
         "choice1": "65%",
@@ -333,7 +333,7 @@
         "infosupp": "L’eau recouvre 72 % des 509 millions de km2 de la surface du globe. C’est ainsi qu’on surnomme la Terre la planète bleue. On estime son volume à environ 1400 millions de km3. Ce qui représente un cube de plus de 1000 km de côté. Ce volume d’eau reste stable à travers les âges."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "En combien d'heures la Terre tourne -t-elle sur elle même ?",
         "correct": "24h",
         "choice1": "37h",
@@ -342,7 +342,7 @@
         "infosupp": "Une rotation complète s'effectue en moyenne en un peu moins de 86 164,1 s , soit 23 h 56 min 4,1 s (jour stellaire). C'est parce que la Terre tourne autour du Soleil en même temps qu'elle tourne sur elle-même que le jour solaire dure quelques minutes de plus, soit 24 heures."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "Comment appelle-t-on la couche rocheuse extérieure de la Terre ?",
         "correct": "La croûte",
         "choice1": "Le manteau",
@@ -351,7 +351,7 @@
         "infosupp": "La croûte terrestre, appelée aussi écorce terrestre, est la partie superficielle et solide du matériau dont est faite la Terre."
     },
     {
-        "planete": "Terre",
+        "planete": "terre",
         "question": "Comment le satellite naturel de la Terre s'appelle-t-il ?",
         "correct": "Lune",
         "choice1": "Appolo",
@@ -360,7 +360,7 @@
         "infosupp": "D'après la datation radiométrique, la Terre s'est formée il y a 4,54 milliards d'années. Elle possède un unique satellite naturel, la Lune, qui s'est formée peu après."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Combien de lune(s) a Mars ?",
         "correct": "2",
         "choice1": "1",
@@ -369,7 +369,7 @@
         "infosupp": " Mars a deux lunes, elles s’appellent phobos, ce qui signifie peur, et deimo, qui est grec pour la panique."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Mars est souvent surnommée .......",
         "correct": "La planète rouge.",
         "choice1": "La planète poussiéreuse.",
@@ -378,7 +378,7 @@
         "infosupp": "Les particules de fer rouillées dans les roches de Mars donnent à la planète une couleur rouge."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Il nous faut combien de temps pour aller sur Mars ?",
         "correct": "Huit mois",
         "choice1": "Un mois",
@@ -387,7 +387,7 @@
         "infosupp": "La Terre et Mars suivent différentes orbites autour du Soleil, donc les explorateurs de l’espace doivent attendre que les deux planètes soient proches l’une de l’autre pour décoller. Même alors, le voyage prendrait un minimum d’environ huit mois."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Les scientifiques ont trouvé des traces d’eau liquide sur Mars",
         "correct": "Vrai",
         "choice1": null,
@@ -396,7 +396,7 @@
         "infosupp": "Les scientifiques pensent que Mars avait autrefois des rivières, des lacs et peut-être même des océans. Aujourd’hui, de petites quantités d’eau coulent sur les parois des cratères."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Cette planète porte le nom du dieu romain Mars. De quoi est-il le dieu ?",
         "correct": "Guerre",
         "choice1": "Incendie",
@@ -405,7 +405,7 @@
         "infosupp": "Les anciens pensaient que la planète était rouge comme le sang et l’ont nommée d’après leur dieu de guerre."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Mars est la ....... planète du Soleil .",
         "correct": "Quatrième",
         "choice1": "Troisième",
@@ -414,7 +414,7 @@
         "infosupp": "En orbite à environ 141600000 milles du Soleil, Mars est la quatrième planète après Mercure, Vénus et la Terre."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Quel est le gaz prédominant dans l’atmosphère de Mars ?",
         "correct": "Dioxyde de carbone ",
         "choice1": "Hydrogène ",
@@ -423,7 +423,7 @@
         "infosupp": "Le dioxyde de carbone est un gaz que nous expirons et qui peut être trop toxique. Pour vivre sur Mars, nous avons besoin d’un apport d’oxygène respirable."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Mars a le plus grand volcan dans le système solaire .",
         "correct": "Vrai",
         "choice1": null,
@@ -432,7 +432,7 @@
         "infosupp": "olympus Mons est si grand qu’il couvrirait l’état de l’Arizona !"
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "De quelle couleur est le ciel martien pendant la journée ?",
         "correct": "Caramel",
         "choice1": "Turquoise",
@@ -441,7 +441,7 @@
         "infosupp": "le ciel est brun jaunâtre le jour, mais devient bleu au coucher du soleil et au lever du soleil."
     },
     {
-        "planete": "Mars",
+        "planete": "mars",
         "question": "Les gens marchaient sur Mars",
         "correct": "Faux",
         "choice1": null,
@@ -450,7 +450,7 @@
         "infosupp": "La NASA espère envoyer des humains sur Mars en 2030. Les enfants d’aujourd’hui pourraient faire partie de la première mission !"
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Jupiter est la ....... planète du Soleil .",
         "correct": "cinquième",
         "choice1": "septième",
@@ -459,7 +459,7 @@
         "infosupp": "Jupiter est la plus grosse planète du Système solaire, et la cinquième planète par sa distance au Soleil"
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Quel type de planète est Jupiter ?",
         "correct": "Planète géante de gaz",
         "choice1": "Planète naine",
@@ -468,7 +468,7 @@
         "infosupp": "Jupiter est la plus grande des huit planètes du système solaire. Jupiter a plus de 300 fois la masse de la Terre. Il est classé comme l’un des Joviens ou géants du gaz."
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Lequel des énoncés suivants décrit le mieux la surface de Jupiter ?",
         "correct": "Une épaisse couche de gaz hydrogène .",
         "choice1": "Froid, rocheux et recouvert de poussière rouge .",
@@ -477,7 +477,7 @@
         "infosupp": "Il y a des tempêtes et du temps sur Jupiter. Il n’y a pas de tempêtes avec de l’eau qui tombe des nuages. Il y a des tempêtes de la taille des planètes avec du méthane, de l’ammoniac ou de l’hydrosulfure d’ammoniac qui circulent à la surface de la planète."
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Quelle est la masse de Jupiter par rapport à la masse de la Terre?",
         "correct": "318 fois la masse de la terre",
         "choice1": "95 fois la masse de la Terre",
@@ -486,7 +486,7 @@
         "infosupp": " plus volumineuse et massive que toutes les autres planètes réunies"
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Combien de temps dure une journée sur Jupiter ?",
         "correct": "9,8 heures",
         "choice1": "10,7 heures",
@@ -495,7 +495,7 @@
         "infosupp": "Une journée sur la terre efais présque trois jours sur jupiter"
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Quel scientifique célèbre a découvert les quatre plus grandes lunes de Jupiter ?",
         "correct": "Galileo",
         "choice1": "Isaac Newton",
@@ -504,7 +504,7 @@
         "infosupp": "Jupiter est connue depuis l'Antiquité mais les observations précises débutent au XVIIe siècle."
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Quelle est la grande tache rouge de Jupiter ?",
         "correct": "Tempête massive",
         "choice1": "Volcan",
@@ -513,7 +513,7 @@
         "infosupp": "La Grande Tache rouge est un gigantesque anticyclone de l'atmosphère de Jupiter situé à 22 ° sud de latitude. Longue d'environ 15 000 kilomètres et large de près de 12 000 kilomètres (2015),"
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Comment s’appelle la tempête géante sur Jupiter ",
         "correct": "La grande tache rouge",
         "choice1": "Le point géant",
@@ -522,7 +522,7 @@
         "infosupp": "Sur Jupiter, une tempête de la taille de la Terre sévit depuis des siècles"
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Jupiter est la ....... planète du système solaire .",
         "correct": "plus grande",
         "choice1": "sixième plus grande",
@@ -531,7 +531,7 @@
         "infosupp": "Jupiter, la première planète à s'être formée autour du Soleil. Jupiter est donc la plus grande planète du Système solaire."
     },
     {
-        "planete": "Jupiter",
+        "planete": "jupiter",
         "question": "Jupiter est la plus grande planète en orbite autour du Soleil .",
         "correct": "Vrai",
         "choice1": null,
@@ -540,7 +540,7 @@
         "infosupp": "Jupiter est la plus grande des huit planètes du système solaire. Jupiter a plus de 300 fois la masse de la Terre. Il est classé comme l’un des Joviens ou géants du gaz."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Combien de satelites naturels à-t il Saturn ?",
         "correct": "82",
         "choice1": "28",
@@ -549,7 +549,7 @@
         "infosupp": "Saturne est la planéte qui as le plus grand nombre de satélites ."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Quel est le nombre d’anneaux de Saturn ?",
         "correct": "7",
         "choice1": "3",
@@ -558,7 +558,7 @@
         "infosupp": "Un anneau planétaire est une région en forme de disque mince se situant autour d'une planète"
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Qui a observé Saturne pour la première fois ?",
         "correct": "Galileo Galilei",
         "choice1": "Isaac Newton",
@@ -567,7 +567,7 @@
         "infosupp": "La première observation de Saturne a été faite par l'astronome italien Galilée. En voyant les anneaux, Galilée ne comprend pas ce qu'il voit, il pense que Saturne a des oreilles."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "La distance entre la Terre et Saturne est :",
         "correct": "1 277 000 000 km",
         "choice1": "2 874 105 000 Km",
@@ -576,7 +576,7 @@
         "infosupp": "Mercure est la plus proche planéte de la terre."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Saturne est la ....... plus grande planéte dans le systéme solaire",
         "correct": "deuxiéme",
         "choice1": "troisiéme",
@@ -585,7 +585,7 @@
         "infosupp": "Jupiter est la plus grosse planéte du systéme solaire"
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Saturne est la ....... plus lourde planéte dans le systeme solaire",
         "correct": "deuxiéme",
         "choice1": "troisiéme",
@@ -594,7 +594,7 @@
         "infosupp": "Jupiter est la plus lourde planéte du systéme solaire ."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Quelle est la température moyenne à la surface de Saturne ?",
         "correct": "184 °C",
         "choice1": "90 °C",
@@ -603,7 +603,7 @@
         "infosupp": "La planète où il fait le plus chaud est Vénus ."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Quel genre d'astre est-elle ?",
         "correct": "une planéte",
         "choice1": "Une étoile",
@@ -612,7 +612,7 @@
         "infosupp": "On as plusieures autres types dastre : Comète, Supernova, Galaxie, Quasar, Amas d'étoiles et Nébuleuse ."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Saturne est obsérvée la premiére fois en .......",
         "correct": "1610",
         "choice1": "1656",
@@ -621,7 +621,7 @@
         "infosupp": "Apres l'observation de saturn en 1610, en 1612, l'astronome observe Saturne, mais les anneaux ont disparu, puis ils réapparaissent l'année suivante. En réalité, la Terre était passée dans le plan des anneaux, et comme ils sont très fins, apres l'observation de saturn en 1610 , ils étaient alors invisibles depuis la Terre. Ce phénomène se produit régulièrement."
     },
     {
-        "planete": "Saturne",
+        "planete": "saturne",
         "question": "Le nom du plus grand satellite naturel de Saturne est ....... ",
         "correct": "Titan",
         "choice1": "Mimas",
@@ -630,7 +630,7 @@
         "infosupp": "Le plus grand satellite naturede saturn l, Titan, fut découverte en 1655 par Christian Huygens grâce à un objectif de 57 mm monté sur une lunette astronomique de sa conception."
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Quelle est la couleur d'Uranus ?",
         "correct": "bleu & vert",
         "choice1": "bleu",
@@ -639,7 +639,7 @@
         "infosupp": "La couleur bleue d'Uranus est due à la présence de méthane qui réfléchit le bleu"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Uranus est ....... planéte dans le systéme solaire par ordre d'éloignement au soleil",
         "correct": " la septiéme.",
         "choice1": "la huitième",
@@ -648,7 +648,7 @@
         "infosupp": "Mercure est la premiére planéte dans le systéme soleil par ordre d'éloignement au soleil"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Une année sur Uranus correspond à .......",
         "correct": "84.02 années (84 ans et 7 jours)",
         "choice1": "94 ans",
@@ -657,7 +657,7 @@
         "infosupp": "Le nombre de jours dans l'année est 365"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "La distance entre Uranus et le Soleil est .......",
         "correct": "2869000000 Km",
         "choice1": "1400000000 Km",
@@ -666,7 +666,7 @@
         "infosupp": "Dans un kilomètre, nous avons 1000 mètres"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Peut-on respirer sur Uranus ?",
         "correct": "Non",
         "choice1": null,
@@ -675,7 +675,7 @@
         "infosupp": "Pour respirer, le corps humain a besoin d'Oxygène"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Quel mois voit-on Uranus mieux ?",
         "correct": "Aout",
         "choice1": "Juillet",
@@ -684,7 +684,7 @@
         "infosupp": "Uranus est pourtant théoriquement visible à l'œil nu si le ciel est bien noir "
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Pour atteindre Uranus la lumiére du Soleil met ",
         "correct": "3 heures",
         "choice1": "2 heures et 30 minutes 4 heures et 20 minutes",
@@ -693,7 +693,7 @@
         "infosupp": "dans une heures on a 60 minutes"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Est-ce que Uranus est habitable ?",
         "correct": "Non",
         "choice1": null,
@@ -702,7 +702,7 @@
         "infosupp": "La temppérature de uranus arrive jusqu'a -224 °C"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Uranus est bleu a cause de la presénce de l'eau sur cette planéte",
         "correct": "Faux",
         "choice1": null,
@@ -711,7 +711,7 @@
         "infosupp": "La couleur bleue d'Uranus est due à la présence de méthane qui réfléchit le bleu"
     },
     {
-        "planete": "Uranus",
+        "planete": "uranus",
         "question": "Quand Uranus a-t-elle été découvert ?",
         "correct": "1781",
         "choice1": "1804",
@@ -720,7 +720,7 @@
         "infosupp": "Uranus n'a été découvert que le 13 mars 1781 par le musicien et astronome William Herschel"
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Quelle est la masse de Neptune comparée à la Terre?",
         "correct": "17 fois la masse de la Terre",
         "choice1": "15 fois la masse de la Terre",
@@ -729,7 +729,7 @@
         "infosupp": "Bien qu’Uranus est la plus grande planète dans le système solaire, mais la masse de Neptune est plus grande qu’Uranus."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "De quelle couleur apparaît Neptune dans un petit télescope ?",
         "correct": "Bleu",
         "choice1": "Blanc",
@@ -738,7 +738,7 @@
         "infosupp": "Comme Uranus, la couleur bleue provient de l’absorption de la lumière rouge par le méthane dans l’atmosphère de Neptune."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Quel est le plus grand satellite de Neptune ?",
         "correct": "Triton",
         "choice1": "Titan",
@@ -747,7 +747,7 @@
         "infosupp": "Triton est un satellite intéressant. Son orbite est rétrograde autour de Neptune et son atmosphère est ténue. Triton a dû se former ailleurs dans le Système Solaire et ensuite être 'capturé' par Neptune. Triton finira par se désintégrer ou s’écraser sur Neptune puisque son orbite est abaissée par les interactions de marée avec Neptune."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Quel est le nom grec de Neptune ?",
         "correct": "Poséidon",
         "choice1": "Ouranos",
@@ -756,7 +756,7 @@
         "infosupp": "Poséidon, le dieu de la mer! Un fait intéressant à propos de Neptune, quand Voyager 2 a visité la géante gazeuse en 1989, il y avait une Grande Tache Noire. Les observations effectuées par le télescope spatial Hubble en 1994 montrent que la Grande Tache Noire a disparu ! Elle s’est dissipée ou est couverte par un autre processus qui se déroule dans l’atmosphère de Neptune."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Les scientifiques ont découvert combien de satellites autour de Neptune ?",
         "correct": "14",
         "choice1": "10",
@@ -765,7 +765,7 @@
         "infosupp": "Les satellites naturels de Neptune sont actuellement, de manière confirmée, au nombre de 14. Le plus gros d'entre eux, Triton, est le premier à avoir été découvert en octobre 1846."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Neptune est une planète gazeuse géante qui est probablement composée de ....... et .......",
         "correct": "glace, roche",
         "choice1": "eau, terre",
@@ -774,7 +774,7 @@
         "infosupp": "Sa composition interne est similaire à celle d'Uranus. Neptune serait pourvue d'un noyau rocheux de fer et de silicates, lui-même entouré d'eau, de méthane et d'hydrocarbures dans différents états allant de solide (glaces) à liquide."
     },
       {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Neptune est la ....... planète du système solaire.",
         "correct": "quatrième plus grande",
         "choice1": "deuxième plus grande",
@@ -783,7 +783,7 @@
         "infosupp": "Il s'agit de la troisième planète la plus massive du Système solaire et de la quatrième plus grande par la taille, un peu plus massive mais un peu plus petite qu'Uranus. Par ailleurs, elle est la planète géante la plus dense."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Lequel des énoncés suivants décrit le mieux l’atmosphère à Neptune ?",
         "correct": "Extrêmement froid",
         "choice1": "Similaire à l’atmosphère terrestre",
@@ -792,7 +792,7 @@
         "infosupp": "Neptune, étant la 8ème planète de notre système solaire, c'est la plus éloignée du soleil et elle a la température moyenne la plus froide (environ -214°C)."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Combien de temps dure une journée sur Neptune ?",
         "correct": "16,1 heures",
         "choice1": "24,6 heures",
@@ -801,7 +801,7 @@
         "infosupp": "Le jour sur neptune est un peu plus courts que sur terre, et dure environs 16.1 heures."
     },
     {
-        "planete": "Neptune",
+        "planete": "neptune",
         "question": "Quel type de planète est Neptune ?",
         "correct": "Planète géante de glace",
         "choice1": "Planète naine",
