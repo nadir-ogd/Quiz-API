@@ -90,7 +90,7 @@
         "infosupp": "Le soleil tire son énergie de réactions de fusion nucléaire qui transforment, dans son noyau, l’hydrogène en hélium, et se trouve dans un état d’équilibre hydrostatique, ne subissant ni contraction, ni dilatation continuelles ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Quelle est la plage de température sur Mercure ?",
         "correct": "de -180°C a 430°C",
         "choice1": "de -150 °C  à 400 °C",
@@ -99,7 +99,7 @@
         "infosupp": "Pendant la journée, la température à la surface de Mercure peut atteindre 430 °C. Comme la planète n'a pas d'atmosphère pour retenir cette chaleur, la température à la surface peut descendre jusqu'à -180 °C pendant la nuit ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Combien de couchée et levée de soleil peut-on obsrver depuis Mercure ?",
         "correct": "3",
         "choice1": "1",
@@ -108,7 +108,7 @@
         "infosupp": "Le soleil du matin semble se lever brièvement, se coucher et se lever à nouveau depuis certaines parties de la surface de la planète. La même chose se produit en sens inverse au coucher du soleil pour d'autres parties de la surface ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Combien de temps dure une année sur Mercure en jours terrestres ?",
         "correct": "88",
         "choice1": "125",
@@ -117,7 +117,7 @@
         "infosupp": "Mercure effectue une orbite complète autour du Soleil (une année) en seulement 88 jours terrestres ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "En mythologie ,Mercure est le maitre de :",
         "correct": "Commerce",
         "choice1": "Guerre",
@@ -126,7 +126,7 @@
         "infosupp": "Mercure est une planète tellurique, comme le sont également Vénus, la Terre et Mars. Elle est près de trois fois plus petite et presque vingt fois moins massive que la Terre ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Quel est le nom du premier vaisseau spatial qui a visité Mercure ?",
         "correct": "Mariner 10",
         "choice1": "Apollo 13",
@@ -135,7 +135,7 @@
         "infosupp": "La première sonde spatiale à avoir visité la planète Mercure s'appelait Mariner 10. Elle a survolé Mercure à trois reprises et a cartographié environ la moitié de la surface de la planète ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Combien de satellites naturels possède Mercure ?",
         "correct": "aucun",
         "choice1": "24",
@@ -144,7 +144,7 @@
         "infosupp": "Mercure n'a pas de satellites ou de systèmes d'anneaux ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Quelle est la durée d'une journée sur Mercure en jours terrestres ?",
         "correct": "0",
         "choice1": "16",
@@ -153,7 +153,7 @@
         "infosupp": "Full rotation is carried out here for 58 Earth days , that is how much a day lasts on Mercury , that is ,r the time from dawn to sunset . But the day here lasts 176 Earth ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "La gravité de Mercure par rapport à celle de la Terre (qui est de 1,00g) est de :",
         "correct": "0.38g",
         "choice1": "1g",
@@ -162,7 +162,7 @@
         "infosupp": "La gravité sur Mercure est presque 3 fois moins forte que sur Terre ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Quelle position occupe Mercure en partant du Soleil ?",
         "correct": "Première planète",
         "choice1": "troisieme planete",
@@ -171,7 +171,7 @@
         "infosupp": "Mercure est la planète la plus proche du Soleil et la moins massive du Système solaire ."
     },
     {
-        "planete": "Mercure",
+        "planete": "mercure",
         "question": "Quelle est sa période de révolution ?",
         "correct": "87 jours ",
         "choice1": "100 jours",
