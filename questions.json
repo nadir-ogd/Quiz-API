@@ -180,7 +180,7 @@
         "infosupp": "La période de révolution, aussi appelée période orbitale, est la durée mise par un astre pour accomplir une révolution complète autour d’un autre astre547 jours ."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": " Vénus est aussi appelé ....... ?",
         "correct": "L'étoile du matin",
         "choice1": "La planète rouge",
@@ -189,16 +189,16 @@
         "infosupp": "On l'appelle aussi l'étoile du matin, parce que c'est le dernier corps céleste que l'on voit dans le ciel avant l'arrivée du soleil. Vénus est une planète inférieure. Cela veut dire qu'elle montre des phases quand on l'observe d'un télescope depuis la terre."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Vénus est la ....... planète de système solaire .",
         "correct": "deuxième",
         "choice1": "troixième",
         "choice2": "cinquiéme",
         "choice3": "septième",
-        "infosupp": "Venus est la deuxième planète du Système solaire par ordre d'éloignement au Soleil, et la sixième plus grosse aussi bien par la masse que le diamètre. Elle doit son nom à la déesse romaine de l'amour. Vénus orbite autour du Soleil tous les 224,7 jours terrestres."
+        "infosupp": "Vénus est la deuxième planète du Système solaire par ordre d'éloignement au Soleil, et la sixième plus grosse aussi bien par la masse que le diamètre. Elle doit son nom à la déesse romaine de l'amour. Vénus orbite autour du Soleil tous les 224,7 jours terrestres."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Sur Vénus, la température moyenne est de :",
         "correct": "462°C",
         "choice1": "350°C",
@@ -207,7 +207,7 @@
         "infosupp": "A la surface de Vénus, la température est de 465°C. C'est la plus chaude des planètes du système solaire. Vénus se trouve à 108 Millions de Km du soleil, elle en est donc plus proche que la Terre . Pourtant, cela ne suffit pas à expliquer la différence de température. En effet, l'atmosphère de Vénus est tellement dense qu'elle empêche 80 % des rayons solaires de passer et d'atteindre la surface."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Vénus orbite autour du Soleil tous les ....... jours",
         "correct": "224 jours",
         "choice1": "320 jours",
@@ -216,7 +216,7 @@
         "infosupp": "Vénus orbite autour du Soleil tous les 224,7 jours terrestres. Avec une période de rotation de 243 jours terrestres, il lui faut plus de temps pour tourner autour de son axe que toute autre planète du Système solaire."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Quel type de planète est Vénus ?",
         "correct": "Planète tellurique",
         "choice1": "Planète naine",
@@ -225,7 +225,7 @@
         "infosupp": "Vénus est l'une des quatre planètes telluriques du Système solaire. Elle est parfois appelée la « planète sœur » de la Terre en raison des similitudes relatives de leurs diamètres, masses, proximités au Soleil et compositions."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Les principaux gaz atmosphériques de Vénus sont le ....... et .......",
         "correct": "le dioxyde de carbone et le diazote",
         "choice1": "L'Hydrogene et l'oxygene",
@@ -234,7 +234,7 @@
         "infosupp": "Les principaux gaz atmosphériques de Vénus sont le dioxyde de carbone et le diazote. Les autres composants sont présents seulement sous forme de traces"
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Vénus et ....... sont des planètes qui se ressemblent .",
         "correct": "Terre",
         "choice1": "Mercure",
@@ -243,7 +243,7 @@
         "infosupp": "Vénus est parfois qualifiée de « sœur jumelle infernale » de la Terre, en raison de sa température, son atmosphère, ses nuages acides, etc. Des sondes l'ont étudiée de près, non sans mal au départ, permettant d’en apprendre davantage. Mais une fois encore, de nombreux mystères demeurent."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": " Vénus est un(e) : .......",
         "correct": "Planète",
         "choice1": "étoile",
@@ -252,22 +252,22 @@
         "infosupp": "Vénus est la 2e planète la plus proche du Soleil, et ressemble beaucoup à la Terre par sa taille et sa masse. Néanmoins, le rapprochement s’arrête là. Il s’agit en effet de la planète la plus chaude du Système solaire."
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Vénus est ....... dans le classement des planètes les plus chaudes .",
         "correct": "Première",
         "choice1": "deuxiéme",
         "choice2": "troisiéme",
         "choice3": "sixiéme",
-        "infosupp": " Venus est parfois appelée la « planète sœur » de la Terre"
+        "infosupp": " Vénus est parfois appelée la « planète sœur » de la Terre"
     },
     {
-        "planete": "venus",
+        "planete": "vénus",
         "question": "Vénus a ..... satellite(s) naturel(s) .",
         "correct": "un",
         "choice1": "trois ",
         "choice2": "sept",
         "choice3": "quatre",
-        "infosupp": " Venus tourne dans le sens opposé à celui des autres planètes ."
+        "infosupp": " Vénus tourne dans le sens opposé à celui des autres planètes ."
     },
     {
         "planete": "terre",
